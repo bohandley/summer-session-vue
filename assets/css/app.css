@@ -1,0 +1,81 @@
+body {
+	background-color: #3672b2;
+  font-family: Helvetica, Arial;
+}
+
+.app-header, .app-footer {
+	color: white;
+  margin-top: 10px;
+  background-color: #66b0ff;
+}
+
+.app-footer {
+	margin-top: 2rem;
+	margin-bottom: 10px;
+	padding:10px;
+}
+
+.app-footer p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.app-border {
+	border: 15px white solid;
+	border-radius: .3rem;
+}
+
+.app-header img{
+	float: right;
+}
+
+.col-lg-6.left-container,
+.col-lg-6.right-container {
+	padding: 0;
+}
+
+.input-container-left {
+	margin-right: 15px;
+	background-color: #ffc766;
+	padding: 20px;
+	height:500px;
+}
+
+.input-container-right {
+	margin-left: 15px;
+	background-color: #ffc766;
+	padding: 20px;
+	height:500px;
+}
+
+.course-select {
+  background-image: url("../images/und.png")
+}
+
+.center-text {
+	text-align: center;
+}
+
+.course-select-button {
+	height: 90%;
+	width: 100%;
+	margin:5px 0 5px 0;
+}
+
+@media (max-width : 992px){
+	.app-header img{
+		float: left;
+	}
+
+	.input-container-right {
+		margin-top: 15px;
+		margin-left: 0;
+		padding: 10px;
+	}
+
+	.input-container-left {
+		margin-bottom: 15px;
+		margin-right: 0;
+		padding: 10px;
+	}
+}	

@@ -1,0 +1,1061 @@
+{
+	"subjects": [
+		{
+	    "subject_id": "",
+	    "subject_code": "",
+	    "subject": "Select a subject",
+	    "term_code": "",
+	    "guid": ""
+	  },
+	  {
+	    "subject_id": "ACCT.202100",
+	    "subject_code": "ACCT",
+	    "subject": "Accountancy",
+	    "term_code": "202100",
+	    "guid": "34dac952-59b1-45c3-a97f-80cb825c98ea"
+	  },
+	  {
+	    "subject_id": "ACMS.202100",
+	    "subject_code": "ACMS",
+	    "subject": "Applied & Comp Math and Stats",
+	    "term_code": "202100",
+	    "guid": "939dd6a0-3579-45fb-b7e5-6bb545459138"
+	  },
+	  {
+	    "subject_id": "ACTG.202100",
+	    "subject_code": "ACTG",
+	    "subject": "Accounting (MATG)",
+	    "term_code": "202100",
+	    "guid": "c9a4aceb-bf2f-4518-95dd-4503b4962d02"
+	  },
+	  {
+	    "subject_id": "AFST.202100",
+	    "subject_code": "AFST",
+	    "subject": "Africana Studies",
+	    "term_code": "202100",
+	    "guid": "255009e0-917e-4f05-805b-496971b59364"
+	  },
+	  {
+	    "subject_id": "AL.202100",
+	    "subject_code": "AL",
+	    "subject": "Arts and Letters (Non-dept.)",
+	    "term_code": "202100",
+	    "guid": "8722f70f-8919-4688-b0c6-8f627c1ec918"
+	  },
+	  {
+	    "subject_id": "ALHN.202100",
+	    "subject_code": "ALHN",
+	    "subject": "Arts and Letters - Honors",
+	    "term_code": "202100",
+	    "guid": "1edcbddc-a61a-46db-8ae3-881183b59975"
+	  },
+	  {
+	    "subject_id": "ALPP.202100",
+	    "subject_code": "ALPP",
+	    "subject": "Arts and Letters Preprofessnal",
+	    "term_code": "202100",
+	    "guid": "54bae529-8d57-48be-a071-7146f9d27e5c"
+	  },
+	  {
+	    "subject_id": "AME.202100",
+	    "subject_code": "AME",
+	    "subject": "Aerospace and Mechanical Engr.",
+	    "term_code": "202100",
+	    "guid": "6bb4aca5-0965-4354-843c-8f12e12927f5"
+	  },
+	  {
+	    "subject_id": "AMST.202100",
+	    "subject_code": "AMST",
+	    "subject": "American Studies",
+	    "term_code": "202100",
+	    "guid": "25742967-abb9-4135-842b-18d9c323b467"
+	  },
+	  {
+	    "subject_id": "ANTH.202100",
+	    "subject_code": "ANTH",
+	    "subject": "Anthropology",
+	    "term_code": "202100",
+	    "guid": "67483d97-2e75-480a-b014-6fbe301de451"
+	  },
+	  {
+	    "subject_id": "ARCH.202100",
+	    "subject_code": "ARCH",
+	    "subject": "Architecture",
+	    "term_code": "202100",
+	    "guid": "05131642-6167-4aaa-8620-74b8f329e721"
+	  },
+	  {
+	    "subject_id": "ARHI.202100",
+	    "subject_code": "ARHI",
+	    "subject": "Art History",
+	    "term_code": "202100",
+	    "guid": "1d7c2e7a-93fb-42e4-a5b6-7acfcf70c588"
+	  },
+	  {
+	    "subject_id": "ARST.202100",
+	    "subject_code": "ARST",
+	    "subject": "Art Studio",
+	    "term_code": "202100",
+	    "guid": "91c0c7bc-3bed-4efd-a02c-a811bb9b3f24"
+	  },
+	  {
+	    "subject_id": "AS.202100",
+	    "subject_code": "AS",
+	    "subject": "Air Force-Aerospace Studies",
+	    "term_code": "202100",
+	    "guid": "a3863ed1-1da7-4b14-8db2-118ca1467d7e"
+	  },
+	  {
+	    "subject_id": "ASIA.202100",
+	    "subject_code": "ASIA",
+	    "subject": "Asian Studies",
+	    "term_code": "202100",
+	    "guid": "7ace990c-ab51-47f7-9f92-532602886fe9"
+	  },
+	  {
+	    "subject_id": "BA.202100",
+	    "subject_code": "BA",
+	    "subject": "Business Administration",
+	    "term_code": "202100",
+	    "guid": "3520fb0f-7b63-4096-804d-05f9e4a64b5e"
+	  },
+	  {
+	    "subject_id": "BAAL.202100",
+	    "subject_code": "BAAL",
+	    "subject": "Business Administration - A&L",
+	    "term_code": "202100",
+	    "guid": "a476a234-55d2-49a4-a370-3b66b3901964"
+	  },
+	  {
+	    "subject_id": "BACM.202100",
+	    "subject_code": "BACM",
+	    "subject": "Bus Admin - Communication",
+	    "term_code": "202100",
+	    "guid": "4b79dc6e-4216-4f17-9e73-06cbc480b2a9"
+	  },
+	  {
+	    "subject_id": "BAEG.202100",
+	    "subject_code": "BAEG",
+	    "subject": "Business Administration - EG",
+	    "term_code": "202100",
+	    "guid": "25b682ad-53d1-46df-a444-828040ca381b"
+	  },
+	  {
+	    "subject_id": "BAEN.202100",
+	    "subject_code": "BAEN",
+	    "subject": "Bus Admin - Entrepreneurship",
+	    "term_code": "202100",
+	    "guid": "0d0c7571-0389-4bae-b197-50b14cb9ab93"
+	  },
+	  {
+	    "subject_id": "BAET.202100",
+	    "subject_code": "BAET",
+	    "subject": "Bus Admin - Ethics",
+	    "term_code": "202100",
+	    "guid": "a9ca9b38-74c5-41cd-a548-42f0ccf4c1d2"
+	  },
+	  {
+	    "subject_id": "BALW.202100",
+	    "subject_code": "BALW",
+	    "subject": "Bus Admin - Business Law",
+	    "term_code": "202100",
+	    "guid": "a557778f-4201-4343-8fbe-1b2b34ab89db"
+	  },
+	  {
+	    "subject_id": "BAMG.202100",
+	    "subject_code": "BAMG",
+	    "subject": "Bus Admin - Management",
+	    "term_code": "202100",
+	    "guid": "adece282-0108-4675-8586-3632c46e3b2b"
+	  },
+	  {
+	    "subject_id": "BASC.202100",
+	    "subject_code": "BASC",
+	    "subject": "Business Administration - SC",
+	    "term_code": "202100",
+	    "guid": "7133f253-304a-4f32-976e-0b90ef8ed561"
+	  },
+	  {
+	    "subject_id": "BAUG.202100",
+	    "subject_code": "BAUG",
+	    "subject": "Business Administration - UG",
+	    "term_code": "202100",
+	    "guid": "90714190-2c7c-4caf-8bf1-64f006568fc4"
+	  },
+	  {
+	    "subject_id": "BIOS.202100",
+	    "subject_code": "BIOS",
+	    "subject": "Biological Sciences",
+	    "term_code": "202100",
+	    "guid": "942b3568-5b7b-4a69-b06d-7526f6a229a6"
+	  },
+	  {
+	    "subject_id": "BPHY.202100",
+	    "subject_code": "BPHY",
+	    "subject": "Biophysics",
+	    "term_code": "202100",
+	    "guid": "3fc468d0-1720-4c7b-b257-9cce2d134b71"
+	  },
+	  {
+	    "subject_id": "CAPP.202100",
+	    "subject_code": "CAPP",
+	    "subject": "Computer Applications",
+	    "term_code": "202100",
+	    "guid": "1b2b6cc3-53e4-4cf1-85b8-09c99f71856a"
+	  },
+	  {
+	    "subject_id": "CBE.202100",
+	    "subject_code": "CBE",
+	    "subject": "Chemical & Biomolecular Engr.",
+	    "term_code": "202100",
+	    "guid": "2eddcb21-5294-4ecd-8ad7-51175789050b"
+	  },
+	  {
+	    "subject_id": "CDT.202100",
+	    "subject_code": "CDT",
+	    "subject": "Computing & Digtl Technologies",
+	    "term_code": "202100",
+	    "guid": "35288d28-5ef9-416d-bf99-0f60735d3c2a"
+	  },
+	  {
+	    "subject_id": "CE.202100",
+	    "subject_code": "CE",
+	    "subject": "Civil Engineering",
+	    "term_code": "202100",
+	    "guid": "88902ee8-9283-4979-abe6-3acfcb70f77e"
+	  },
+	  {
+	    "subject_id": "CHEM.202100",
+	    "subject_code": "CHEM",
+	    "subject": "Chemistry and Biochemistry",
+	    "term_code": "202100",
+	    "guid": "9775012e-231a-44b9-9cc0-608bfe9c0712"
+	  },
+	  {
+	    "subject_id": "CHR.202100",
+	    "subject_code": "CHR",
+	    "subject": "Civil and Human Rights",
+	    "term_code": "202100",
+	    "guid": "2c023c27-6e71-4b35-a072-aa883fa2f052"
+	  },
+	  {
+	    "subject_id": "CLAS.202100",
+	    "subject_code": "CLAS",
+	    "subject": "Classics in Translation",
+	    "term_code": "202100",
+	    "guid": "14d73c7d-6a99-41ca-94ea-ad1361c5956d"
+	  },
+	  {
+	    "subject_id": "CLGR.202100",
+	    "subject_code": "CLGR",
+	    "subject": "Greek Language and Literature",
+	    "term_code": "202100",
+	    "guid": "6f20882c-a987-4f69-b7fb-82f1b384ac4a"
+	  },
+	  {
+	    "subject_id": "CLLA.202100",
+	    "subject_code": "CLLA",
+	    "subject": "Latin Language and Literature",
+	    "term_code": "202100",
+	    "guid": "22a01952-1bd3-4857-99ae-6db88780442c"
+	  },
+	  {
+	    "subject_id": "CLSS.202100",
+	    "subject_code": "CLSS",
+	    "subject": "Syriac Language and Literature",
+	    "term_code": "202100",
+	    "guid": "15bd6f26-9bdc-469f-8325-6ef4a3be05ff"
+	  },
+	  {
+	    "subject_id": "CNST.202100",
+	    "subject_code": "CNST",
+	    "subject": "Constitutional Studies",
+	    "term_code": "202100",
+	    "guid": "7d51defe-3e39-434b-ab5d-71a3e403ff91"
+	  },
+	  {
+	    "subject_id": "CSC.202100",
+	    "subject_code": "CSC",
+	    "subject": "Center for Social Concerns",
+	    "term_code": "202100",
+	    "guid": "1343b7a4-9a03-4d73-bfc1-511ee02ba288"
+	  },
+	  {
+	    "subject_id": "CSE.202100",
+	    "subject_code": "CSE",
+	    "subject": "Computer Science and Engr.",
+	    "term_code": "202100",
+	    "guid": "8a256652-7e4b-4a8f-8ee3-32fc45aacd93"
+	  },
+	  {
+	    "subject_id": "CSEM.202100",
+	    "subject_code": "CSEM",
+	    "subject": "College Seminar",
+	    "term_code": "202100",
+	    "guid": "8baef236-4691-438c-8b82-8f6de305e7b2"
+	  },
+	  {
+	    "subject_id": "CSLC.202100",
+	    "subject_code": "CSLC",
+	    "subject": "Ctr for Study of Lang&Cultures",
+	    "term_code": "202100",
+	    "guid": "0b1fe56a-159a-481e-a440-7b4aa59077cd"
+	  },
+	  {
+	    "subject_id": "CST.202100",
+	    "subject_code": "CST",
+	    "subject": "Catholic Social Tradition",
+	    "term_code": "202100",
+	    "guid": "9d5c8ae9-5486-46c2-92a8-6e22ec2c3a9e"
+	  },
+	  {
+	    "subject_id": "DESN.202100",
+	    "subject_code": "DESN",
+	    "subject": "Design",
+	    "term_code": "202100",
+	    "guid": "7870616c-923f-4c4b-b281-9cc1ea58b475"
+	  },
+	  {
+	    "subject_id": "DMA.202100",
+	    "subject_code": "DMA",
+	    "subject": "Doctor of Musical Arts",
+	    "term_code": "202100",
+	    "guid": "6ae417c2-2137-40ff-b20e-8a82e58f291c"
+	  },
+	  {
+	    "subject_id": "DS.202100",
+	    "subject_code": "DS",
+	    "subject": "Data Science",
+	    "term_code": "202100",
+	    "guid": "83da00a1-1080-4394-8f85-3d253e90c7a7"
+	  },
+	  {
+	    "subject_id": "EALC.202100",
+	    "subject_code": "EALC",
+	    "subject": "Chinese",
+	    "term_code": "202100",
+	    "guid": "504ec005-5ede-4ecd-b52f-061e99826e93"
+	  },
+	  {
+	    "subject_id": "EALJ.202100",
+	    "subject_code": "EALJ",
+	    "subject": "Japanese",
+	    "term_code": "202100",
+	    "guid": "03cf4146-31f4-4741-b27d-a8109020decb"
+	  },
+	  {
+	    "subject_id": "EALK.202100",
+	    "subject_code": "EALK",
+	    "subject": "Korean",
+	    "term_code": "202100",
+	    "guid": "7ab56338-7d17-41fa-94f5-0075cd3d9667"
+	  },
+	  {
+	    "subject_id": "ECON.202100",
+	    "subject_code": "ECON",
+	    "subject": "Economics",
+	    "term_code": "202100",
+	    "guid": "5323f4b3-467a-4959-8610-1b6c6bdf3129"
+	  },
+	  {
+	    "subject_id": "EDU.202100",
+	    "subject_code": "EDU",
+	    "subject": "Education",
+	    "term_code": "202100",
+	    "guid": "7c3c99db-460c-4f8f-b9d2-9c8ac813f5ef"
+	  },
+	  {
+	    "subject_id": "EE.202100",
+	    "subject_code": "EE",
+	    "subject": "Electrical Engineering",
+	    "term_code": "202100",
+	    "guid": "4a58b8d0-924c-4b33-a983-98a385a7587e"
+	  },
+	  {
+	    "subject_id": "EG.202100",
+	    "subject_code": "EG",
+	    "subject": "Engineering (Non-Departmental)",
+	    "term_code": "202100",
+	    "guid": "8d80c395-59b5-4721-abf5-915309839b0a"
+	  },
+	  {
+	    "subject_id": "EGBA.202100",
+	    "subject_code": "EGBA",
+	    "subject": "Engineering Business Program",
+	    "term_code": "202100",
+	    "guid": "88f73fd8-6254-4370-876b-39568d044be1"
+	  },
+	  {
+	    "subject_id": "ELEC.202100",
+	    "subject_code": "ELEC",
+	    "subject": "Elective",
+	    "term_code": "202100",
+	    "guid": "6ce79007-ab12-45f8-937c-52596e0ecb68"
+	  },
+	  {
+	    "subject_id": "ENER.202100",
+	    "subject_code": "ENER",
+	    "subject": "Energy Studies",
+	    "term_code": "202100",
+	    "guid": "a38305fd-b080-4b5c-85d5-77a4ba8edf72"
+	  },
+	  {
+	    "subject_id": "ENGL.202100",
+	    "subject_code": "ENGL",
+	    "subject": "English",
+	    "term_code": "202100",
+	    "guid": "22872ecc-6cbd-49a5-a666-0e679236a813"
+	  },
+	  {
+	    "subject_id": "ENVG.202100",
+	    "subject_code": "ENVG",
+	    "subject": "Environmental Geosciences",
+	    "term_code": "202100",
+	    "guid": "8322e2a4-0143-4383-884c-ad832fd8554e"
+	  },
+	  {
+	    "subject_id": "ESS.202100",
+	    "subject_code": "ESS",
+	    "subject": "Education, School and Society",
+	    "term_code": "202100",
+	    "guid": "4cb40787-48e3-4a48-a147-5cdfcda1410b"
+	  },
+	  {
+	    "subject_id": "ESTM.202100",
+	    "subject_code": "ESTM",
+	    "subject": "EG, SC & Tech Entrepreneurship",
+	    "term_code": "202100",
+	    "guid": "561242f0-a914-49d4-b300-56356be80f5d"
+	  },
+	  {
+	    "subject_id": "ESTS.202100",
+	    "subject_code": "ESTS",
+	    "subject": "Eng., Science, Tech. & Society",
+	    "term_code": "202100",
+	    "guid": "15d3b167-a24e-470f-a724-14c1b1484169"
+	  },
+	  {
+	    "subject_id": "EURO.202100",
+	    "subject_code": "EURO",
+	    "subject": "European Studies",
+	    "term_code": "202100",
+	    "guid": "e2d2841c-666a-47c7-a412-7cf87651086d"
+	  },
+	  {
+	    "subject_id": "FIN.202100",
+	    "subject_code": "FIN",
+	    "subject": "Finance",
+	    "term_code": "202100",
+	    "guid": "5886e61f-1366-47f7-af9a-31e24e05eb51"
+	  },
+	  {
+	    "subject_id": "FTT.202100",
+	    "subject_code": "FTT",
+	    "subject": "Film, Television, and Theatre",
+	    "term_code": "202100",
+	    "guid": "66652a16-1793-4b46-8062-79cd1bd6467b"
+	  },
+	  {
+	    "subject_id": "FYS.202100",
+	    "subject_code": "FYS",
+	    "subject": "First Year of Studies",
+	    "term_code": "202100",
+	    "guid": "296cedaa-82f1-4bdf-afe8-a0f644a6d586"
+	  },
+	  {
+	    "subject_id": "GE.202100",
+	    "subject_code": "GE",
+	    "subject": "German",
+	    "term_code": "202100",
+	    "guid": "1345cef5-a1ee-4157-bae9-02108bbf7026"
+	  },
+	  {
+	    "subject_id": "GH.202100",
+	    "subject_code": "GH",
+	    "subject": "Global Health - Eck Institute",
+	    "term_code": "202100",
+	    "guid": "6eb6f8e5-1f02-4882-a470-56aa67556fa4"
+	  },
+	  {
+	    "subject_id": "GRED.202100",
+	    "subject_code": "GRED",
+	    "subject": "Graduate Education",
+	    "term_code": "202100",
+	    "guid": "22bab71e-a13a-416f-ab56-1fe02f72fba9"
+	  },
+	  {
+	    "subject_id": "GSC.202100",
+	    "subject_code": "GSC",
+	    "subject": "Gender Studies",
+	    "term_code": "202100",
+	    "guid": "6ac1e9d6-0f75-435b-9719-18e2b641c90b"
+	  },
+	  {
+	    "subject_id": "HESB.202100",
+	    "subject_code": "HESB",
+	    "subject": "Hesburgh Prg in Public Service",
+	    "term_code": "202100",
+	    "guid": "445229ef-6f2e-4d30-82bb-91fa5d8eeab8"
+	  },
+	  {
+	    "subject_id": "HIST.202100",
+	    "subject_code": "HIST",
+	    "subject": "History",
+	    "term_code": "202100",
+	    "guid": "73e16b82-66fc-477c-9449-11075768b3a6"
+	  },
+	  {
+	    "subject_id": "HPS.202100",
+	    "subject_code": "HPS",
+	    "subject": "History and Phil. of Science",
+	    "term_code": "202100",
+	    "guid": "5aabeded-61d1-4a47-91c6-92208b65139b"
+	  },
+	  {
+	    "subject_id": "IBMS.202100",
+	    "subject_code": "IBMS",
+	    "subject": "Integrated Biomedical Sciences",
+	    "term_code": "202100",
+	    "guid": "5e2f3be5-55b2-4b48-b624-73f93c5f6fac"
+	  },
+	  {
+	    "subject_id": "IDS.202100",
+	    "subject_code": "IDS",
+	    "subject": "Internatnl Development Studies",
+	    "term_code": "202100",
+	    "guid": "272a6d13-935e-4141-b456-7557b3bd8735"
+	  },
+	  {
+	    "subject_id": "IIPS.202100",
+	    "subject_code": "IIPS",
+	    "subject": "Inst. for Int'l Peace Studies",
+	    "term_code": "202100",
+	    "guid": "02e7d5b5-9faf-41fb-a9b3-8d96d7bd6d3d"
+	  },
+	  {
+	    "subject_id": "ILS.202100",
+	    "subject_code": "ILS",
+	    "subject": "Latino Studies",
+	    "term_code": "202100",
+	    "guid": "0a776272-0924-4350-ab7d-9d01a21ca173"
+	  },
+	  {
+	    "subject_id": "IRLL.202100",
+	    "subject_code": "IRLL",
+	    "subject": "Irish Language and Literature",
+	    "term_code": "202100",
+	    "guid": "781a6625-a6a7-458a-9ed9-06621278802a"
+	  },
+	  {
+	    "subject_id": "IRST.202100",
+	    "subject_code": "IRST",
+	    "subject": "Irish Studies",
+	    "term_code": "202100",
+	    "guid": "ab25ffcb-987d-4588-9699-77cb61ede3b6"
+	  },
+	  {
+	    "subject_id": "ITAO.202100",
+	    "subject_code": "ITAO",
+	    "subject": "IT, Analytics and Operations",
+	    "term_code": "202100",
+	    "guid": "a5265b83-9433-463a-a6a0-908852b3d93b"
+	  },
+	  {
+	    "subject_id": "JED.202100",
+	    "subject_code": "JED",
+	    "subject": "Journalism, Ethics & Democracy",
+	    "term_code": "202100",
+	    "guid": "7783f832-4fbe-42d9-8eb3-527d85a3b31a"
+	  },
+	  {
+	    "subject_id": "KSGA.202100",
+	    "subject_code": "KSGA",
+	    "subject": "Keough School - Global Affairs",
+	    "term_code": "202100",
+	    "guid": "2970cde0-35f1-4017-bfda-2d3aa7737ab8"
+	  },
+	  {
+	    "subject_id": "LAST.202100",
+	    "subject_code": "LAST",
+	    "subject": "Latin American Studies",
+	    "term_code": "202100",
+	    "guid": "8e179169-6a5d-4060-ac36-164035325027"
+	  },
+	  {
+	    "subject_id": "LAW.202100",
+	    "subject_code": "LAW",
+	    "subject": "Law",
+	    "term_code": "202100",
+	    "guid": "964dc4ca-6715-454e-9168-43cb6dc0e85a"
+	  },
+	  {
+	    "subject_id": "LIT.202100",
+	    "subject_code": "LIT",
+	    "subject": "Literature",
+	    "term_code": "202100",
+	    "guid": "1043ddba-8582-4683-9257-482e957fa1b4"
+	  },
+	  {
+	    "subject_id": "LLEA.202100",
+	    "subject_code": "LLEA",
+	    "subject": "East Asian Lang & Lit",
+	    "term_code": "202100",
+	    "guid": "13254e67-adbd-4b4a-ac3a-20419d9a6de2"
+	  },
+	  {
+	    "subject_id": "LLRO.202100",
+	    "subject_code": "LLRO",
+	    "subject": "Romance Lang & Lit",
+	    "term_code": "202100",
+	    "guid": "46b5c1ff-484a-4344-a2b1-62503ca029e2"
+	  },
+	  {
+	    "subject_id": "MARK.202100",
+	    "subject_code": "MARK",
+	    "subject": "Marketing",
+	    "term_code": "202100",
+	    "guid": "408a0353-5bc8-44e1-a3dc-4c421d9c118e"
+	  },
+	  {
+	    "subject_id": "MATH.202100",
+	    "subject_code": "MATH",
+	    "subject": "Mathematics",
+	    "term_code": "202100",
+	    "guid": "5c9a2093-0df3-44f1-a1e4-56510857b926"
+	  },
+	  {
+	    "subject_id": "MBAC.202100",
+	    "subject_code": "MBAC",
+	    "subject": "MBA Chicago",
+	    "term_code": "202100",
+	    "guid": "765e4085-aed4-403a-82b4-5469bf922639"
+	  },
+	  {
+	    "subject_id": "MBAE.202100",
+	    "subject_code": "MBAE",
+	    "subject": "MBA Executive Program",
+	    "term_code": "202100",
+	    "guid": "03d03bba-9a66-4615-9307-81c8e1e30a3d"
+	  },
+	  {
+	    "subject_id": "MBCM.202100",
+	    "subject_code": "MBCM",
+	    "subject": "MBA Bus Communications",
+	    "term_code": "202100",
+	    "guid": "8910d6bb-1f4f-4f3c-a637-99ce318febd8"
+	  },
+	  {
+	    "subject_id": "MBET.202100",
+	    "subject_code": "MBET",
+	    "subject": "MBA Business Ethics",
+	    "term_code": "202100",
+	    "guid": "491e490d-a25d-4ffb-9292-8dc6b4ea7bc8"
+	  },
+	  {
+	    "subject_id": "MBGR.202100",
+	    "subject_code": "MBGR",
+	    "subject": "MBA General",
+	    "term_code": "202100",
+	    "guid": "81d3d636-433b-440e-80b5-2dda8b5ce335"
+	  },
+	  {
+	    "subject_id": "MBLW.202100",
+	    "subject_code": "MBLW",
+	    "subject": "MBA Business Law",
+	    "term_code": "202100",
+	    "guid": "a5020fed-9a0e-4091-9f10-5c28d44e73dc"
+	  },
+	  {
+	    "subject_id": "MDMK.202100",
+	    "subject_code": "MDMK",
+	    "subject": "Digital Marketing (MDMK)",
+	    "term_code": "202100",
+	    "guid": "cc4dca2f-f88a-4ab6-b12c-0843919963b8"
+	  },
+	  {
+	    "subject_id": "MDSC.202100",
+	    "subject_code": "MDSC",
+	    "subject": "Data Science (MDSC)",
+	    "term_code": "202100",
+	    "guid": "349820a8-960d-4b82-9cf1-6377aaf70eea"
+	  },
+	  {
+	    "subject_id": "MEAR.202100",
+	    "subject_code": "MEAR",
+	    "subject": "Arabic Language and Literature",
+	    "term_code": "202100",
+	    "guid": "30e9caf2-7305-435f-a9c3-3a489821ed98"
+	  },
+	  {
+	    "subject_id": "MEHE.202100",
+	    "subject_code": "MEHE",
+	    "subject": "Hebrew Language and Literature",
+	    "term_code": "202100",
+	    "guid": "9da1b106-393e-4384-abdf-a940279cd8d6"
+	  },
+	  {
+	    "subject_id": "MELC.202100",
+	    "subject_code": "MELC",
+	    "subject": "Middle Eastern Studies",
+	    "term_code": "202100",
+	    "guid": "17c134a8-51f7-40c7-989e-40291f08e19a"
+	  },
+	  {
+	    "subject_id": "MGA.202100",
+	    "subject_code": "MGA",
+	    "subject": "Master of Global Affairs",
+	    "term_code": "202100",
+	    "guid": "020dfa14-991f-41a7-852e-6826572be844"
+	  },
+	  {
+	    "subject_id": "MGT.202100",
+	    "subject_code": "MGT",
+	    "subject": "Management",
+	    "term_code": "202100",
+	    "guid": "3d7bf7d2-56a4-4b4f-8171-a528b9b0f064"
+	  },
+	  {
+	    "subject_id": "MGTC.202100",
+	    "subject_code": "MGTC",
+	    "subject": "Management - Consulting",
+	    "term_code": "202100",
+	    "guid": "a91cb141-1889-48f2-877e-069c776ccef1"
+	  },
+	  {
+	    "subject_id": "MGTE.202100",
+	    "subject_code": "MGTE",
+	    "subject": "Management - Entrepreneurship",
+	    "term_code": "202100",
+	    "guid": "77610072-509c-4e14-9649-257c756bebc7"
+	  },
+	  {
+	    "subject_id": "MGTI.202100",
+	    "subject_code": "MGTI",
+	    "subject": "Management - IT",
+	    "term_code": "202100",
+	    "guid": "7bc5dc7f-5a25-4ae5-b849-45f3e1d1a37a"
+	  },
+	  {
+	    "subject_id": "MGTO.202100",
+	    "subject_code": "MGTO",
+	    "subject": "Management & Organization",
+	    "term_code": "202100",
+	    "guid": "89bb81bc-5353-4592-aa4d-a17353da1d0e"
+	  },
+	  {
+	    "subject_id": "MI.202100",
+	    "subject_code": "MI",
+	    "subject": "Medieval Institute",
+	    "term_code": "202100",
+	    "guid": "1dd4323b-3d2c-47f0-92d4-99586941f82a"
+	  },
+	  {
+	    "subject_id": "MNA.202100",
+	    "subject_code": "MNA",
+	    "subject": "Master of Nonprofit Admin.",
+	    "term_code": "202100",
+	    "guid": "70ba4284-4fd6-49be-9abe-68d0ebd1c660"
+	  },
+	  {
+	    "subject_id": "MSB.202100",
+	    "subject_code": "MSB",
+	    "subject": "Master of Science Business",
+	    "term_code": "202100",
+	    "guid": "2d37cdd9-62ee-4f2d-b33a-58bd20243cbf"
+	  },
+	  {
+	    "subject_id": "MSBA.202100",
+	    "subject_code": "MSBA",
+	    "subject": "Master of Sc in Bus Analytics",
+	    "term_code": "202100",
+	    "guid": "52359940-5f98-4aeb-ad45-755dbd126559"
+	  },
+	  {
+	    "subject_id": "MSBR.202100",
+	    "subject_code": "MSBR",
+	    "subject": "MS Business Anlytics-Residntl",
+	    "term_code": "202100",
+	    "guid": "dca591d4-33d1-4517-9397-a76361f12cf9"
+	  },
+	  {
+	    "subject_id": "MSF.202100",
+	    "subject_code": "MSF",
+	    "subject": "Master of Science in Finance",
+	    "term_code": "202100",
+	    "guid": "b01935fd-050d-40ac-a616-4bd028f255e0"
+	  },
+	  {
+	    "subject_id": "MSFR.202100",
+	    "subject_code": "MSFR",
+	    "subject": "MS Finance - Residential",
+	    "term_code": "202100",
+	    "guid": "9a6a6bc3-10e4-4058-b693-f8417e4edc85"
+	  },
+	  {
+	    "subject_id": "MSL.202100",
+	    "subject_code": "MSL",
+	    "subject": "Military Science (Army ROTC)",
+	    "term_code": "202100",
+	    "guid": "79a78406-a423-4b87-9a12-51393628e6fe"
+	  },
+	  {
+	    "subject_id": "MSM.202100",
+	    "subject_code": "MSM",
+	    "subject": "Master of Sacred Music",
+	    "term_code": "202100",
+	    "guid": "26a9e5b3-3d62-4523-9488-6cf7afa4ba66"
+	  },
+	  {
+	    "subject_id": "MSMG.202100",
+	    "subject_code": "MSMG",
+	    "subject": "Master of Science in Mgtment",
+	    "term_code": "202100",
+	    "guid": "10f64d86-191d-4a9e-8e41-650aaa8568c3"
+	  },
+	  {
+	    "subject_id": "MUS.202100",
+	    "subject_code": "MUS",
+	    "subject": "Music",
+	    "term_code": "202100",
+	    "guid": "26a8bf22-1e31-4869-8ea5-9fac7b1328e9"
+	  },
+	  {
+	    "subject_id": "NSBH.202100",
+	    "subject_code": "NSBH",
+	    "subject": "Neuroscience and Behavior",
+	    "term_code": "202100",
+	    "guid": "740e735c-a831-494e-8700-ac1b2f3b7571"
+	  },
+	  {
+	    "subject_id": "NSCI.202100",
+	    "subject_code": "NSCI",
+	    "subject": "Naval Science (ROTC)",
+	    "term_code": "202100",
+	    "guid": "1e99d53e-028d-464f-adcb-7d3a2c4f1828"
+	  },
+	  {
+	    "subject_id": "PATC.202100",
+	    "subject_code": "PATC",
+	    "subject": "Patent Law",
+	    "term_code": "202100",
+	    "guid": "7c151bdf-ac1e-4b20-b23d-414da0e528d2"
+	  },
+	  {
+	    "subject_id": "PATL.202100",
+	    "subject_code": "PATL",
+	    "subject": "Patent Law Masters",
+	    "term_code": "202100",
+	    "guid": "0938050e-6bc1-46a8-b0eb-67103fae550b"
+	  },
+	  {
+	    "subject_id": "PCAY.202100",
+	    "subject_code": "PCAY",
+	    "subject": "Pre-College Academic Year",
+	    "term_code": "202100",
+	    "guid": "0a88aa98-56d2-4e57-8945-a9b377c8c06b"
+	  },
+	  {
+	    "subject_id": "PCSE.202100",
+	    "subject_code": "PCSE",
+	    "subject": "Pre-College Summer Experience",
+	    "term_code": "202100",
+	    "guid": "202ca7c0-9170-4a04-bd3f-08a26088d3f5"
+	  },
+	  {
+	    "subject_id": "PE.202100",
+	    "subject_code": "PE",
+	    "subject": "Physical Education",
+	    "term_code": "202100",
+	    "guid": "ac548d75-1c9a-450e-ae3c-115de2063246"
+	  },
+	  {
+	    "subject_id": "PHIL.202100",
+	    "subject_code": "PHIL",
+	    "subject": "Philosophy",
+	    "term_code": "202100",
+	    "guid": "4305ce89-2b33-4797-b124-61d1fd82d8bf"
+	  },
+	  {
+	    "subject_id": "PHYS.202100",
+	    "subject_code": "PHYS",
+	    "subject": "Physics",
+	    "term_code": "202100",
+	    "guid": "8dd10e4e-4556-4df9-8c29-09358e727ece"
+	  },
+	  {
+	    "subject_id": "PLS.202100",
+	    "subject_code": "PLS",
+	    "subject": "Program of Liberal Studies",
+	    "term_code": "202100",
+	    "guid": "98e78b4f-4469-4606-a315-4ea24f0eb325"
+	  },
+	  {
+	    "subject_id": "POLS.202100",
+	    "subject_code": "POLS",
+	    "subject": "Political Science",
+	    "term_code": "202100",
+	    "guid": "abfc9a07-2b51-464b-807c-28678cf9553e"
+	  },
+	  {
+	    "subject_id": "PPE.202100",
+	    "subject_code": "PPE",
+	    "subject": "Philosophy, Politics & Econmcs",
+	    "term_code": "202100",
+	    "guid": "210f303a-d6ef-4057-820d-ffd07af00f07"
+	  },
+	  {
+	    "subject_id": "PRL.202100",
+	    "subject_code": "PRL",
+	    "subject": "Philosophy, Religion and Lit",
+	    "term_code": "202100",
+	    "guid": "a5b8f3cf-a6e8-412f-a018-594ecf87b8f8"
+	  },
+	  {
+	    "subject_id": "PS.202100",
+	    "subject_code": "PS",
+	    "subject": "Poverty Studies",
+	    "term_code": "202100",
+	    "guid": "0feb3295-26eb-4004-a937-53402c5a3ba1"
+	  },
+	  {
+	    "subject_id": "PSY.202100",
+	    "subject_code": "PSY",
+	    "subject": "Psychology",
+	    "term_code": "202100",
+	    "guid": "a24ab62a-7349-46fc-b840-05576078886f"
+	  },
+	  {
+	    "subject_id": "RE.202100",
+	    "subject_code": "RE",
+	    "subject": "Real Estate",
+	    "term_code": "202100",
+	    "guid": "3db49086-b264-457c-947d-7121d0c4490a"
+	  },
+	  {
+	    "subject_id": "REG.202100",
+	    "subject_code": "REG",
+	    "subject": "Registrar's Office",
+	    "term_code": "202100",
+	    "guid": "00affaba-49c7-479b-984e-43abe588d4c9"
+	  },
+	  {
+	    "subject_id": "RLT.202100",
+	    "subject_code": "RLT",
+	    "subject": "Religion and Literature",
+	    "term_code": "202100",
+	    "guid": "4e108bb0-a5a2-4449-95ba-15687f8a02da"
+	  },
+	  {
+	    "subject_id": "ROFR.202100",
+	    "subject_code": "ROFR",
+	    "subject": "French",
+	    "term_code": "202100",
+	    "guid": "69069817-755c-4ede-ac05-46ef12b4417a"
+	  },
+	  {
+	    "subject_id": "ROIT.202100",
+	    "subject_code": "ROIT",
+	    "subject": "Italian",
+	    "term_code": "202100",
+	    "guid": "0c5546f0-7144-43a1-b177-5dfdde50a840"
+	  },
+	  {
+	    "subject_id": "ROPO.202100",
+	    "subject_code": "ROPO",
+	    "subject": "Portuguese",
+	    "term_code": "202100",
+	    "guid": "4479abb4-6ff9-4754-bb23-ab82ad6b9dbe"
+	  },
+	  {
+	    "subject_id": "ROSP.202100",
+	    "subject_code": "ROSP",
+	    "subject": "Spanish",
+	    "term_code": "202100",
+	    "guid": "726d6899-29c2-4066-ba10-320957633b9a"
+	  },
+	  {
+	    "subject_id": "RS.202100",
+	    "subject_code": "RS",
+	    "subject": "Resiliency and Sustainability",
+	    "term_code": "202100",
+	    "guid": "e60e5141-c5e9-4994-b6e9-9a7924e8c077"
+	  },
+	  {
+	    "subject_id": "RU.202100",
+	    "subject_code": "RU",
+	    "subject": "Russian",
+	    "term_code": "202100",
+	    "guid": "27d038bd-9a0c-4ca8-ac55-8e60ed6db4f7"
+	  },
+	  {
+	    "subject_id": "SC.202100",
+	    "subject_code": "SC",
+	    "subject": "Science (Non-departmental)",
+	    "term_code": "202100",
+	    "guid": "6148418b-4d7a-4c0c-9359-6b38f7e68f7c"
+	  },
+	  {
+	    "subject_id": "SCGE.202100",
+	    "subject_code": "SCGE",
+	    "subject": "Science General Elective",
+	    "term_code": "202100",
+	    "guid": "7f38b94c-4313-498f-be44-65bcfbbd3930"
+	  },
+	  {
+	    "subject_id": "SCPP.202100",
+	    "subject_code": "SCPP",
+	    "subject": "Science Preprofessional",
+	    "term_code": "202100",
+	    "guid": "22974cad-5d08-491a-83f8-693b3ca5b5cf"
+	  },
+	  {
+	    "subject_id": "SEI.202100",
+	    "subject_code": "SEI",
+	    "subject": "Social Entreprneurshp&Innovatn",
+	    "term_code": "202100",
+	    "guid": "79e6dd85-5434-41be-906d-0085e63d5145"
+	  },
+	  {
+	    "subject_id": "SOC.202100",
+	    "subject_code": "SOC",
+	    "subject": "Sociology",
+	    "term_code": "202100",
+	    "guid": "18b9a0b7-a198-4782-8c5b-98c7db77a74b"
+	  },
+	  {
+	    "subject_id": "STV.202100",
+	    "subject_code": "STV",
+	    "subject": "Science, Technology and Values",
+	    "term_code": "202100",
+	    "guid": "b06cc47a-05fe-4bde-b37a-487adf9ed266"
+	  },
+	  {
+	    "subject_id": "SUS.202100",
+	    "subject_code": "SUS",
+	    "subject": "Sustainability",
+	    "term_code": "202100",
+	    "guid": "079181a0-043f-460e-a6fc-4dd5280d59b4"
+	  },
+	  {
+	    "subject_id": "THEO.202100",
+	    "subject_code": "THEO",
+	    "subject": "Theology",
+	    "term_code": "202100",
+	    "guid": "76fb7399-3f58-4d7b-a7ef-3bd39c0ae960"
+	  },
+	  {
+	    "subject_id": "UB.202100",
+	    "subject_code": "UB",
+	    "subject": "Upward Bound Program",
+	    "term_code": "202100",
+	    "guid": "80a0da94-000f-441d-9cc4-a7a3ae117048"
+	  },
+	  {
+	    "subject_id": "WR.202100",
+	    "subject_code": "WR",
+	    "subject": "Writing and Rhetoric",
+	    "term_code": "202100",
+	    "guid": "0d92a8e7-6b64-4347-ab20-47ac107c6796"
+	  }
+	]
+}

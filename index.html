@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="assets/css/app.css">
+        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+        <script src="lib/vueDev.js"></script>
+        <!-- <script src="/utilities/misc.js"></script> -->
+        <!-- <script src="/utilities/obj.js"></script> -->
+        <link rel="icon" href="assets/images/summer.ico" type="image/ico" sizes="16x16">
+        <title>Summer Session</title>
+        <script src="components/selectedCourses.js"></script>
+        <script src="components/courseList.js"></script>
+        <script src="components/inputSelect.js"></script>
+        <script src="components/courseSelect.js"></script>
+    </head>
+    <body>
+        <div id="app" class="container">
+            <div class="row jumbotron app-header app-border">
+                <div class="col-lg-6">
+                    <h2>Summer Session Application</h2>
+                </div>
+                <div class="col-lg-6">
+                    <img src="assets/images/ND_mark_white_M.png" height="50">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 left-container">
+                    <div class="input-container-left app-border">
+                        <p>Let's get started!</p>
+                        <p>
+                            Current Notre Dame students click 
+                            <a href="">here</a>
+                        </p>
+                        <div class="row">
+                            <!-- select a program that has specific courses or student selected -->
+                            <div class="col-lg-4">
+                                Program
+                            </div>
+                            <div class="col-lg-8">
+                                <input-select
+                                    :options="programs"
+                                    v-on:select-change="updateSelectedProgram($event)"
+                                >
+                                </input-select>
+                            </div>
+                        </div>
+                        <br/>
+                        <div class="row ">
+                            <!-- select UG or GR grad levels -->
+                            <div class="col-lg-4">
+                                Application Type
+                            </div>
+                            <div class="col-lg-8">
+                                <input-select
+                                    :options="applicationTypes"
+                                    v-on:select-change="selectedType = $event"
+                                >
+                                </input-select>
+                            </div>
+                        </div>
+                        <br/>
+                        <div class="row">
+                            <selected-courses
+                                :selected-courses=selectedCourses
+                                :selected-program=selectedProgram
+                                v-on:remove-course="removeCourse($event)"
+                            >
+                            </selected-courses>
+                        </div>
+                        <div class="row">
+                            <!-- populate tabulated course search here for certain programs -->
+                            <div class="col-lg-4 offset-lg-4">
+                                <button type="button" class="btn btn-primary">
+                                    Apply for Summer!
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 right-container">
+                    <div v-bind:class="{'input-container-right':true, 'app-border': true, 'course-select':showImage()}">            
+                        <!-- build out course select template next -->
+                        <course-select
+                            :key="selectedProgram"
+                            :selected-program="selectedProgram"
+                            :subjects="subjects"
+                            :courses="courses"
+                            :program="getProgram()"
+                            v-on:add-course="addCourse($event)"
+                        >
+                        </course-select> 
+                    </div>
+                </div>
+            </div>
+            <!-- confirm footer information and links -->
+            <div class="row app-footer app-border">
+                <div class="col-lg-6">
+                    <p>
+                        <b>
+                            University of Notre Dame - Summer Session
+                        </b>
+                    </p>
+                    <p>
+                        Office of the Registrar
+                    </p>
+                    <p>
+                        300 Grace Hall
+                    </p>
+                    <p>
+                        <a style="font-size:.8em" href="">Administrator Access</a>
+                    </p>
+                    <p style="font-size:.7em">
+                        Summer Session Application v2.0
+                    </p>
+                </div>
+                <div class="col-lg-6">
+                    <p>
+                        Email:
+                        <a href="amilto:sumsess.1@nd.edu">sumsess.1@nd.edu</a>
+                    </p>
+                    <p>
+                        Phone Number: 574-631-7282
+                    </p>
+                    <p>
+                        Website:
+                        <a href="http:summersession.nd.edu">summersessio.nd.edu</a>
+                    </p>
+                    
+                </div>
+
+            </div>
+        </div>
+    </body>
+    <script src="app.js"></script>
+</html>
